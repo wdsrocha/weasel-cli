@@ -1,4 +1,4 @@
-# Dawkin's Weasel Program
+# Dawkins' Weasel Program
 
 Simple implementation of the classic [weasel program](https://en.wikipedia.org/wiki/Weasel_program).
 
