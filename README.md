@@ -1,8 +1,17 @@
 # Dawkins' Weasel Program
 
+[![license](https://img.shields.io/github/license/wdsrocha/weasel-cli?color=blue)](https://github.com/wdsrocha/weasel-cli/blob/master/LICENSE)
+[![version](https://img.shields.io/pypi/v/weasel-cli)](https://pypi.org/project/weasel-cli/)
+[![build](https://img.shields.io/github/workflow/status/wdsrocha/weasel-cli/build)](https://github.com/wdsrocha/weasel-cli/actions?query=workflow%3Abuild)
+[![prs](https://img.shields.io/badge/PRs-welcome-brightgreen)](https://github.com/wdsrocha/weasel-cli/blob/master/CONTRIBUTING.md)
+
 Simple implementation of the classic [weasel program](https://en.wikipedia.org/wiki/Weasel_program).
 
 ![demo](https://raw.githubusercontent.com/wdsrocha/weasel-cli/master/demo.png)
+
+## About
+
+Although the weasel simulation really works, I'm using this project mostly to test things like CLI development, Github Actions, PyPI deployment, etc.
 
 ## Installation
 
