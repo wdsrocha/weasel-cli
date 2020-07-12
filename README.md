@@ -1,4 +1,4 @@
-<p align="center"><a href="https://pypi.org/project/weasel-cli/" target="_blank" rel="noopener noreferrer"><img width="100" src="./logo.svg" alt="Weasel CLI logo"></a></p>
+<p align="center"><a href="https://pypi.org/project/weasel-cli/" target="_blank" rel="noopener noreferrer"><img width="100" src="https://raw.githubusercontent.com/wdsrocha/weasel-cli/master/logo.svg" alt="Weasel CLI logo"></a></p>
 
 <p align="center">
   <a href="https://github.com/wdsrocha/weasel-cli/blob/master/LICENSE"><img src="https://img.shields.io/github/license/wdsrocha/weasel-cli?color=blue" alt="license"></a>
