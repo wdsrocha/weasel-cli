@@ -15,7 +15,7 @@ while true; do
     case $yn in
         [Yy]* ) break;;
         [Nn]* ) exit 0;;
-        * ) echo "Please answer yes or no.";;
+        * ) echo "please answer yes or no.";;
     esac
 done
 

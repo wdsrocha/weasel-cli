@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "weasel-cli"
-version = "1.0.2-alpha.1"
+version = "1.0.2"
 description = "Simulate Dawkins' weasel experiment"
 readme = "README.md"
 repository = "https://github.com/wdsrocha/weasel-cli"
@@ -9,6 +9,7 @@ license = "MIT"
 packages = [
     { include = "weasel.py" }
 ]
+include = ["CHANGELOG.md"]
 
 [tool.poetry.dependencies]
 python = "^3.6"
