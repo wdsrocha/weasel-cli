@@ -30,5 +30,5 @@ jobs:
         run: |
           poetry config pypi-token.pypi ${{ secrets.pypi_password }}
 
-      - name: Publish package to TestPyPI
+      - name: Publish package to PyPI
         run: poetry publish --username wdsrocha
