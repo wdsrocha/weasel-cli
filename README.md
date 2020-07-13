@@ -11,7 +11,7 @@
 
 Simple implementation of the classic [weasel program](https://en.wikipedia.org/wiki/Weasel_program).
 
-![demo](https://raw.githubusercontent.com/wdsrocha/weasel-cli/master/demo.png)
+![demo](https://raw.githubusercontent.com/wdsrocha/weasel-cli/master/cli_demo.png)
 
 ## About
 
@@ -40,6 +40,10 @@ Options:
 
   --help                          Show this message and exit.
 ```
+
+## Contributing
+
+See [CONTRIBUTING.md](https://github.com/wdsrocha/weasel-cli/blob/master/CONTRIBUTING.md) file for more information.
 
 ## License
 
