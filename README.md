@@ -9,7 +9,7 @@
 
 <h1 align="center">Dawkins' Weasel CLI</h1>
 
-Simple implementation of the classic [weasel program](https://en.wikipedia.org/wiki/Weasel_program).
+Implementation of the classic [weasel program](https://en.wikipedia.org/wiki/Weasel_program).
 
 ![demo](https://raw.githubusercontent.com/wdsrocha/weasel-cli/master/cli_demo.png)
 
