@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://github.com/wdsrocha/weasel-cli/blob/master/LICENSE"><img src="https://img.shields.io/github/license/wdsrocha/weasel-cli?color=blue" alt="license"></a>
   <a href="https://pypi.org/project/weasel-cli/"><img src="https://img.shields.io/pypi/v/weasel-cli" alt="version"></a>
-  <a href="https://github.com/wdsrocha/weasel-cli/actions?query=workflow%3Abuild"><img src="https://img.shields.io/github/workflow/status/wdsrocha/weasel-cli/build" alt="build"></a>
+  <a href="https://github.com/wdsrocha/weasel-cli/actions?query=workflow%3Abuild"><img src="https://img.shields.io/github/actions/workflow/status/wdsrocha/weasel-cli/build.yml?branch=master" alt="build"></a>
   <a href="https://github.com/wdsrocha/weasel-cli/blob/master/CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen" alt="prs"></a>
 </p>
 
